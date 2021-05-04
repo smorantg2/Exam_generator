@@ -18,5 +18,5 @@ git clone https://github.com/smorantg2/Exam_generator
 ## Demo
 
 <span>
-  <img src='exam_generator.gif' width="888" height="500"> 
+  <img src='demo.gif' width="800" height="420"> 
 </span>
